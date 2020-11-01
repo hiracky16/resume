@@ -2,15 +2,17 @@
 
 ## 基本情報
 
-| key         | value                    |
-| ----------- | ------------------------ |
-| 氏名        | 開 功昂 (Noriaki Hiraki) |
-| 生年月日    | 1994-10-28 日            |
-| Twitter     | @hiracky16               |
-| Qiita       | hiracky16                |
-| note        | @hiracky16               |
-| Zenn        | @hiracky16               |
-| SpeakerDeck | なし                     |
+| key          | value                                                              |
+| ------------ | ------------------------------------------------------------------ |
+| 氏名         | 開 功昂 (Noriaki Hiraki)                                           |
+| 生年月日     | 1994-10-28                                                         |
+| Github       | [@hiracky16](https://github.com/hiracky16)                         |
+| Twitter      | [@hiracky16](https://twitter.com/hiracky16)                        |
+| Facebook     | [開 功昂](https://www.facebook.com/noriaki.hiraki/)                |
+| Qiita        | [@hiracky16](https://qiita.com/hiracky16)                          |
+| note         | [@hiracky16](https://note.com/hiracky16)                           |
+| Wantedly     | [開 功昂](https://www.wantedly.com/users/17916993?profile_v1=true) |
+| はてなブログ | [小さなえんどう豆](https://h-piiice16.hatenablog.com/)             |
 
 ---
 
@@ -48,30 +50,73 @@
 
 ### CBcloud 株式会社（2019/11〜現在）
 
-- toC アプリの開発、チームのマネジメント
+- 運送会社向け業務支援ツールの開発
+  - プロジェクト規模
+    - 3 ~ 5 人
+  - 役割
+    - バックエンドの設計、フロントエンド、モバイルアプリの開発
+  - 詳細
+    - DDD や REST API に則った Rails でのバックエンド開発
+    - Javascript から Typescript へのリプレース
+    - Android アプリを Kotlin で開発
+- 買い物代行系アプリの開発、チームのマネジメント
+  - プロジェクト規模
+    - 5 人
+  - 役割
+    - PjM、バックエンドの設計、モバイル、インフラ周りの設計など
+  - 詳細
+    - Rails でのバックエンド開発
+    - Flutter を用いたマルチプラットフォーム開発
+    - 検索エンジンに Elasticsearch を導入
 
 ### 株式会社イプロス（2017/04〜2019/10）
 
-- Java
-
-### 一般社団法人データクレイドル（2016/11〜2017/03）
-
-- オープンデータ収集、作成
-- オープンデータを使ったビジュアライズの作成
-  - tableau
-  - E2D3
-  - IBM Watson
+- サービスの運用・保守
+  - 役割
+    - エンジニア
+  - 詳細
+    - Java を用いたバックエンド開発
+    - React を用いたフロントエンドの一部リプレース
+- 社内ツール開発
+  - 役割
+    - データ分析、エンジニア
+  - 詳細
+    - 機械学習を用いた社内ツールの開発
+    - 他部署へのダッシュボードの作成
+    - 機械学習のトレンドを用いた PoC
 
 ## 業務外活動
+
+### 一般社団法人データクレイドル（2015/11〜2017/03）
+
+※ 学生アルバイトとして参画
+
+- 役割
+  - エンジニア、DataViz
+- 詳細
+  - オープンデータ収集、作成
+  - オープンデータを使ったビジュアライズの作成
+    - D3.js, tableau, E2D3 を用いた DataViz 作品の開発
+      - [高梁川流域の市町の予算比較グラフ](http://hiracky16.github.io/takahashi_yosan/)
+    - E2D3 ハッカソン
+      - [Kurashiki WordCloud](http://a.e2d3.org/chart.html#kurashiki_wordcloud!js!csv)
+    - オープンデータデー
+      - [美観地区の旬](https://hiracky16.github.io/2016-0305-IODD/#/)
+    - IBM Watson を用いた子供向け AI 対話ツール
+      - 質問に答えるとその子の年齢を予測してくれる（サービス終了しているため見せれる成果物はない）
+      - 学習データに教科書の題目、正解データに学年を使って学習を行い年齢を予測する
+
+### E2D3
+
+- 役割
+  - グラフテンプレートの作成
+- 詳細
+  - 公式 Web サイトのリニューアル
 
 ### 個人開発
 
 - uniqa
 - vocamera
-
-### コミュニティ
-
-- E2D3
 
 ### 勉強会
 
