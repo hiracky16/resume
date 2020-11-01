@@ -23,6 +23,8 @@
   - API 設計
 - Kotlin での Android 開発
 - Flutter を用いたマルチプラットフォーム開発経験
+- DataViz
+- 機械学習 PJ の経験
 - 勉強会の主催経験
 
 ---
@@ -57,7 +59,7 @@
     - バックエンドの設計、フロントエンド、モバイルアプリの開発
   - 詳細
     - DDD や REST API に則った Rails でのバックエンド開発
-    - Javascript から Typescript へのリプレース
+    - JavaScript から Typescript へのリプレース
     - Android アプリを Kotlin で開発
 - 買い物代行系アプリの開発、チームのマネジメント
   - プロジェクト規模
@@ -89,36 +91,44 @@
 
 ### 一般社団法人データクレイドル（2015/11〜2017/03）
 
-※ 学生アルバイトとして参画
-
+- 学生アルバイトとして参画
 - 役割
   - エンジニア、DataViz
 - 詳細
   - オープンデータ収集、作成
+    - 手動でオープンデータを作成
+    - パートの人向けにデータ作成のためのツール作成
+    - データ収集のためのクローラ作成
   - オープンデータを使ったビジュアライズの作成
-    - D3.js, tableau, E2D3 を用いた DataViz 作品の開発
+    - D3.js, tableau, E2D3 などを用いた DataViz 作品の開発
       - [高梁川流域の市町の予算比較グラフ](http://hiracky16.github.io/takahashi_yosan/)
-    - E2D3 ハッカソン
-      - [Kurashiki WordCloud](http://a.e2d3.org/chart.html#kurashiki_wordcloud!js!csv)
     - オープンデータデー
       - [美観地区の旬](https://hiracky16.github.io/2016-0305-IODD/#/)
     - IBM Watson を用いた子供向け AI 対話ツール
       - 質問に答えるとその子の年齢を予測してくれる（サービス終了しているため見せれる成果物はない）
       - 学習データに教科書の題目、正解データに学年を使って学習を行い年齢を予測する
 
-### E2D3
+### E2D3（2016/08〜）
 
+- [E2D3](http://e2d3.org/)
 - 役割
-  - グラフテンプレートの作成
+  - エンジニア
 - 詳細
+  - グラフテンプレートの作成
+    - [Kurashiki WordCloud](https://a.e2d3.org/chart.html#kurashiki_wordcloud!js!csv)
+    - [animal-olympic](https://a.e2d3.org/chart.html#animal-olympic-2!js!csv)
   - 公式 Web サイトのリニューアル
+    - http://e2d3.org/
 
 ### 個人開発
 
-- uniqa
-- vocamera
+- [uniqa](https://www.uniqa.site/)
+  - 自分の好きなアーティストや曲をトーナメント形式で決めることができるサービス
+- [vocamera](https://github.com/hiracky16/vocamera)
+  - https://picword-ab4c0.web.app/
+  - コンセプトは写真で撮る単語帳で OCR を用いて画像から単語を抽出してリアルタイム翻訳するアプリ
 
 ### 勉強会
 
-- もくもく会の運営
-- 勉強会の運営
+- [すみだもくもく会](https://sumida-mokumoku.connpass.com/)
+- [隅田川.js](https://sumidagawajs.connpass.com/)
