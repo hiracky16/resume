@@ -118,7 +118,7 @@
     - [Kurashiki WordCloud](https://a.e2d3.org/chart.html#kurashiki_wordcloud!js!csv)
     - [animal-olympic](https://a.e2d3.org/chart.html#animal-olympic-2!js!csv)
   - 公式 Web サイトのリニューアル
-    - http://e2d3.org/
+    - [公式 HP](http://e2d3.org/)
 
 ### 個人開発
 
