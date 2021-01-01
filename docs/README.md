@@ -10,6 +10,7 @@
 | Twitter      | [@hiracky16](https://twitter.com/hiracky16)                        |
 | Facebook     | [開 功昂](https://www.facebook.com/noriaki.hiraki/)                |
 | Qiita        | [@hiracky16](https://qiita.com/hiracky16)                          |
+| Zenn         | [@hiracky16](https://zenn.dev/hiracky16)                           |
 | note         | [@hiracky16](https://note.com/hiracky16)                           |
 | Wantedly     | [開 功昂](https://www.wantedly.com/users/17916993?profile_v1=true) |
 | はてなブログ | [小さなえんどう豆](https://h-piiice16.hatenablog.com/)             |
