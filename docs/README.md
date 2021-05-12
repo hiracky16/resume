@@ -8,10 +8,8 @@
 | 生年月日     | 1994-10-28                                                         |
 | Github       | [@hiracky16](https://github.com/hiracky16)                         |
 | Twitter      | [@hiracky16](https://twitter.com/hiracky16)                        |
-| Facebook     | [開 功昂](https://www.facebook.com/noriaki.hiraki/)                |
 | Qiita        | [@hiracky16](https://qiita.com/hiracky16)                          |
 | Zenn         | [@hiracky16](https://zenn.dev/hiracky16)                           |
-| note         | [@hiracky16](https://note.com/hiracky16)                           |
 | Wantedly     | [開 功昂](https://www.wantedly.com/users/17916993?profile_v1=true) |
 | はてなブログ | [小さなえんどう豆](https://h-piiice16.hatenablog.com/)             |
 
@@ -38,7 +36,7 @@
 - JavaScript/TypeScript
 - Dart
 
-### フレームワーク・その他
+### フレームワーク
 
 - Rails
 - Vue, Nuxt
@@ -65,7 +63,7 @@
 ### 株式会社 DouYu Japan（2021/04~現在）
 
 - ゲーム配信 PF である mildom のデータ分析
-  - データマネジメントチームの立ち上げ
+- データマネジメントチームの立ち上げ
 
 ### CBcloud 株式会社（2019/11〜2021/03）
 
@@ -85,11 +83,11 @@
 
 - メインプロダクトの運用・保守
 	- Java を用いたバックエンド開発
-	  - React を用いたフロントエンドの一部リプレイス
+	- React を用いたフロントエンドの一部リプレイス
 - 機械学習のトレンドを用いた PoC とプロダクトのリリース
   - TFIDF と cos 類似度を用いた類似企業の抽出
-	- LexRank を用いた文章要約
 	- BERT を用いた問い合わせ分類
+	- LexRank を用いた文章要約
 
 
 --
