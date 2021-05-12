@@ -19,7 +19,6 @@
 
 ## 保有スキル
 
-- 0 → 1 の開発、運用
 - Rails を使ったバックエンド開発
 - Flutter を用いたマルチプラットフォーム(Android, iOS)開発
 - DataViz
@@ -36,17 +35,14 @@
 - Kotlin
 - Python
 - Ruby
-- JavaScript
+- JavaScript/TypeScript
 - Dart
-- MySQL
 
 ### フレームワーク・その他
 
 - Rails
 - Vue, Nuxt
 - Flutter
-- Firebase
-- Elasticsearch
 
 --
 
@@ -89,13 +85,11 @@
 
 - メインプロダクトの運用・保守
 	- Java を用いたバックエンド開発
-	- React を用いたフロントエンドの一部リプレイス
-	- 機械学習を用いた社内ツールの開発
-		- TFIDF を用いて文章の類似度を推定
-	- Redash を用いた KPI ダッシュボードの作成
-	- 機械学習のトレンドを用いた PoC
-		- LexRank を用いた文章要約
-		- BERT を用いた文章分類
+	  - React を用いたフロントエンドの一部リプレイス
+- 機械学習のトレンドを用いた PoC とプロダクトのリリース
+  - TFIDF と cos 類似度を用いた類似企業の抽出
+	- LexRank を用いた文章要約
+	- BERT を用いた問い合わせ分類
 
 
 --
