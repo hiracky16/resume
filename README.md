@@ -1,12 +1,12 @@
 # hiracky16's resume
 
+## My Page
+
+https://hiracky16.github.io/resume/
+
 ## Inspired
 
 https://github.com/kawamataryo/resume
-
-## Resume Page
-
-- https://hiracky16.github.io/resume/
 
 ## Features
 
