@@ -57,20 +57,18 @@
   - 海外(中国)のエンジニアとの協働
 - 日本独自のデータ基盤構築pj
   - GCP を使ったデータ基盤構築
-	- Terraform を使った IaC
-	- Digdag や Embulk を用いたワークフロー開発
-	- 日本独自のデータマート作成
+  - Terraform を使った IaC
+  - Digdag や Embulk を用いたワークフロー開発
+  - 日本独自のデータマート作成
 
 
 ### CBcloud 株式会社（2019/11〜2021/03）
 
 - 運送会社向け業務支援ツール(SmaRyu Truck)の開発
-  - 規模: 3 ~ 5 人
-  - DDD や RESTful に則った Rails でのバックエンド開発
+  - Rails でのバックエンド開発
   - JavaScript から Typescript へのリプレイス
   - Android アプリを Kotlin で開発
 - 買い物代行系アプリ(PickGo 買い物)の開発運用
-  - 規模: 3 人
   - PjM としてリソース管理や社内外の調整、面接など
   - Rails でのバックエンドの設計、開発
   - Flutter によるモバイルアプリの設計(たまに開発)
