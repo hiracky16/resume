@@ -9,10 +9,10 @@
 
 # 各種アカウント
 
-<a href="https://github.com/hiracky16"><img src="https://img.shields.io/badge/hiracky16-12100E.svg?style=flat&logo=github"></a>
-<a href="https://twitter.com/hiracky16"><img src="https://img.shields.io/badge/hiracky16-1DA1F2.svg?style=flat&logo=Twitter&logoColor=white"></a>
-<a href="https://qiita.com/hiracky16"><img src="https://img.shields.io/badge/hiracky16-55C500.svg?style=flat&logo=qiita&logoColor=white"></a>
-<a href="https://zenn.dev/hiracky16"><img src="https://img.shields.io/badge/hiracky16-3EA8FF.svg?style=flat&logo=Zenn&logoColor=white"></a>
+<a href="https://github.com/hiracky16" target="_blank"><img src="https://img.shields.io/badge/hiracky16-12100E.svg?style=flat&logo=github"></a>
+<a href="https://twitter.com/hiracky16" target="_blank"><img src="https://img.shields.io/badge/hiracky16-1DA1F2.svg?style=flat&logo=Twitter&logoColor=white"></a>
+<a href="https://qiita.com/hiracky16" target="_blank"><img src="https://img.shields.io/badge/hiracky16-55C500.svg?style=flat&logo=qiita&logoColor=white"></a>
+<a href="https://zenn.dev/hiracky16" target="_blank"><img src="https://img.shields.io/badge/hiracky16-3EA8FF.svg?style=flat&logo=Zenn&logoColor=white"></a>
 
 ---
 
