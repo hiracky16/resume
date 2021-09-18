@@ -2,7 +2,7 @@
 
 | key          | value  |
 | ------------ | ----------------------- |
-| Name | Noriaki |
+| Name | Noriaki Hiraki |
 | Date of birth | 1994-10-28 |
 | Address | Kanagawa, Japan |
 | Education | Okayama University（Bachelor of computer science）|
