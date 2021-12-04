@@ -90,7 +90,7 @@
 - [vocamera](https://github.com/hiracky16/vocamera) ※ closed
   - Wordbook application, extracts words from images using OCR and translates them in real time
 - [FPL JAPAN(WIP)](https://fpl-japan.web.app/)
-  - An app as dashboard for Premier League game, FPL.
+  - An app as dashboard for game of Premier League, FPL.
 
 ## Seminer
 
