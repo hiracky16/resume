@@ -42,7 +42,9 @@
 
 # Work Experience
 
-## 2021/04〜　DouYu Japan
+## 2021/12〜 JDSC
+
+## 2021/04〜2021/11　DouYu Japan
 
 - Development of data infrastructure for Mildom, a game distribution platform
 - Participated as a data engineer and collaborate with engineers in China
@@ -65,7 +67,7 @@
 
 # Side business
 
-## 2021/04〜　biomy
+## 2021/04〜2021/11　biomy
 - Design and development of web applications
 - Terraform / AWS / Python / JavaScript
 
@@ -87,6 +89,8 @@
   - A service that decide your favorite artists
 - [vocamera](https://github.com/hiracky16/vocamera) ※ closed
   - Wordbook application, extracts words from images using OCR and translates them in real time
+- [FPL JAPAN(WIP)](https://fpl-japan.web.app/)
+  - An app as dashboard for game of Premier League, FPL.
 
 ## Seminer
 
