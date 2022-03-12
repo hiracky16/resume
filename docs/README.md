@@ -34,7 +34,6 @@
 
 <p>
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=flat&logo=Apache%20Airflow&logoColor=white">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=Kubernetes&logoColor=white">
 </p>
 
 <p>
