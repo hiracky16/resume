@@ -33,6 +33,11 @@
 </p>
 
 <p>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=flat&logo=Apache%20Airflow&logoColor=white">
+<img src="https://img.shields.io/badge/Apache%20Kubernetes-326CE5.svg?style=flat&logo=Kubernetes&logoColor=white">
+</p>
+
+<p>
 <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazon%20aws&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat&logo=google%20cloud&logoColor=white">
 <img src="https://img.shields.io/badge/terraform-7B42BC.svg?style=flat&logo=terraform&logoColor=white">
@@ -43,6 +48,7 @@
 # 経歴
 
 ## 2021/12〜 株式会社 JDSC
+- データエンジニアとしてワークフロー開発やデータ基盤の運用
 
 ## 2021/04〜2021/11　株式会社 DouYu Japan
 
@@ -55,8 +61,8 @@
 ## 2019/11〜2021/03 CBcloud 株式会社
 
 - 物流をメインにしたサービスを開発
-  - 運送会社向け業務支援ツール (SmaRyu Truck) の開発
-  - 買い物代行系アプリ ( PickGo 買い物 ) の PjM & 開発
+    - 運送会社向け業務支援ツール (SmaRyu Truck) の開発
+    - 買い物代行系アプリ ( PickGo 買い物 ) の PjM & 開発
 - バックエンド（たまにフロント、モバイル）エンジニアとして参加
 - 5 人程度のチームの PjM としてリソース管理や社内外の調整、エンジニア面接を経験
 - 使用技術は Rails / Nuxt.js / Kotlin(Android) / Flutter など
@@ -89,11 +95,11 @@
 ## 個人開発
 
 - [uniqa](https://www.uniqa.site/)
-  - 自分の好きなアーティストや曲をトーナメント形式で決めることができるサービス
+    - 自分の好きなアーティストや曲をトーナメント形式で決めることができるサービス
 - [vocamera](https://github.com/hiracky16/vocamera) ※ 現在クローズ中
-  - 単語帳アプリ、OCR を用いて画像から単語を抽出してリアルタイム翻訳するアプリ
+    - 単語帳アプリ、OCR を用いて画像から単語を抽出してリアルタイム翻訳するアプリ
 - [FPL Japan(WIP)](https://fpl-japan.web.app/)
-  - プレミアリーグのゲームである FPL のダッシュボードみたいなアプリ
+    - プレミアリーグのゲームである FPL のダッシュボードみたいなアプリ
 
 ## 勉強会
 
