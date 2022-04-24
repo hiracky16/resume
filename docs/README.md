@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=flat&logo=Apache%20Airflow&logoColor=white">
 </p>
 <p>
-Digdag, Embulk, DataForm, dbt
+Digdag, Embulk, DataForm
 </p>
 
 ## インフラ
