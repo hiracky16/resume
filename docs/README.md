@@ -16,7 +16,9 @@
 
 ---
 
-# スキル
+# スキル（production 環境で使ったことがあるもの）
+
+## プログラミング言語
 <p>
 <img src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=java">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white">
@@ -25,6 +27,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white">
 </p>
 
+## フレームワーク
 <p>
 <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000.svg?style=flat&logo=ruby%20on%20rails&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white">
@@ -32,14 +35,20 @@
 <img src="https://img.shields.io/badge/Vue-00C58E.svg?style=flat&logo=vue.js&logoColor=white">
 </p>
 
+## データ関連
 <p>
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=flat&logo=Apache%20Airflow&logoColor=white">
 </p>
+<p>
+Digdag, Embulk, DataForm, dbt
+</p>
 
+## インフラ
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazon%20aws&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat&logo=google%20cloud&logoColor=white">
 <img src="https://img.shields.io/badge/terraform-7B42BC.svg?style=flat&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5.svg?logo=kubernetes&style=plastic">
 </p>
 
 ---
