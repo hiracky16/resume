@@ -91,6 +91,9 @@ Digdag, Embulk, DataForm
 
 ---
 
+# 資格
+- 2016/10 統計検定 2 級
+- 2022/05 Google Professional Data Engineer
 # 業務外活動
 ## 2015/11〜2017/03 一般社団法人データクレイドル
 
