@@ -16,7 +16,7 @@
 
 ---
 
-# スキル（production 環境で使ったことがあるもの）
+# スキル
 
 ## プログラミング言語
 <p>
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Vue-00C58E.svg?style=flat&logo=vue.js&logoColor=white">
 </p>
 
-## データ関連
+## ワークフロー、ETL ツール
 <p>
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=flat&logo=Apache%20Airflow&logoColor=white">
 </p>
@@ -43,7 +43,7 @@
 Digdag, Embulk, DataForm
 </p>
 
-## インフラ
+## クラウド、インフラ
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazon%20aws&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat&logo=google%20cloud&logoColor=white">
@@ -56,14 +56,15 @@ Digdag, Embulk, DataForm
 # 経歴
 
 ## 2021/12〜 株式会社 JDSC
-- データエンジニアとしてワークフロー開発やデータ基盤の運用
+- データエンジニアとしてデータ基盤の開発運用
+- Airflow や GKE, DataForm などを用いたマルチテナントな ETL パイプライン開発
 
 ## 2021/04〜2021/11　株式会社 DouYu Japan
 
 - ゲーム配信プラットフォームである Mildom のデータ基盤構築、データマネジメント
 - データエンジニアとして参画し中国のエンジニアとの協働
 - Google Cloud（BigQuery）や Terraform を使ったデータ基盤構築
-- Digdag や Embulk を用いたワークフロー開発
+- Digdag や Embulk を用いたデータパイプライン開発
 
 
 ## 2019/11〜2021/03 CBcloud 株式会社
