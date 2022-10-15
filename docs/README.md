@@ -113,15 +113,6 @@ Digdag, Embulk, DataForm
 
 - 公式サイトのリニューアルやグラフテンプレートの作成
 
-## 個人開発
-
-- [uniqa](https://www.uniqa.site/)
-  - 自分の好きなアーティストや曲をトーナメント形式で決めることができるサービス
-- [vocamera](https://github.com/hiracky16/vocamera) ※ 現在クローズ中
-  - 単語帳アプリ、OCR を用いて画像から単語を抽出してリアルタイム翻訳するアプリ
-- [FPL Japan(WIP)](https://fpl-japan.web.app/)
-  - プレミアリーグのゲームである FPL のダッシュボードみたいなアプリ
-
 ## 勉強会
 
 - [すみだもくもく会](https://sumida-mokumoku.connpass.com/)
