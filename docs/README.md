@@ -53,6 +53,7 @@ Digdag, Embulk, DataForm
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=flat&logo=google%20cloud&logoColor=white">
 <img src="https://img.shields.io/badge/terraform-7B42BC.svg?style=flat&logo=terraform&logoColor=white">
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5.svg?logo=kubernetes&style=plastic">
+<img src="https://img.shields.io/badge/Elasticsearch-005571.svg?style=flat&logo=Elasticsearch">
 </p>
 
 ---
