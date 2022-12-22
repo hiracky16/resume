@@ -103,6 +103,7 @@ Digdag, Embulk, DataForm
 - 2016/10 統計検定 2 級
 - 2022/05 Google Professional Data Engineer
 - 2022/10 Google Professional Cloud Architect
+- 2022/12 Google Professional Machine Learning Engineer
 
 # 業務外活動
 
