@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=flat&logo=ruby&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Go-00ADD8.svg?style=flat&logo=go&logoColor=white">
 </p>
 
 ## フレームワーク
@@ -43,9 +44,9 @@
 
 <p>
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=flat&logo=Apache%20Airflow&logoColor=white">
-</p>
-<p>
-Digdag, Embulk, DataForm
+<img src="https://img.shields.io/badge/digdag-F2B40C.svg?style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/embulk-DE3727.svg?style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/dataform-35469E.svg?style=flat&logoColor=white">
 </p>
 
 ## クラウド、インフラ
@@ -65,20 +66,18 @@ Digdag, Embulk, DataForm
 ## 2021/12〜 株式会社 JDSC
 
 - データエンジニアとしてデータ基盤の開発運用
-- Airflow や GKE, DataForm などを用いたマルチテナントな ETL パイプライン開発
+- マルチテナントな ETL パイプライン開発
+- 顧客企業とのデータアセスメントのリードとデータ仕様の調整
 
 ## 2021/04〜2021/11 　株式会社 DouYu Japan
 
 - ゲーム配信プラットフォームである Mildom のデータ基盤構築、データマネジメント
 - データエンジニアとして参画し中国のエンジニアとの協働
-- Google Cloud（BigQuery）や Terraform を使ったデータ基盤構築
-- Digdag や Embulk を用いたデータパイプライン開発
 
 ## 2019/11〜2021/03 CBcloud 株式会社
 
-- 物流をメインにしたサービスを開発
-  - 運送会社向け業務支援ツール (SmaRyu Truck) の開発
-  - 買い物代行系アプリ ( PickGo 買い物 ) の PjM & 開発
+- 運送会社向け業務支援ツール (SmaRyu Truck) の開発
+- 買い物代行系アプリ ( PickGo 買い物 ) の PjM & 開発
 - バックエンド（たまにフロント、モバイル）エンジニアとして参加
 - 5 人程度のチームの PjM としてリソース管理や社内外の調整、エンジニア面接を経験
 - 使用技術は Rails / Nuxt.js / Kotlin(Android) / Flutter など
@@ -93,10 +92,14 @@ Digdag, Embulk, DataForm
 
 # 副業
 
+## 2023/08~ 株式会社 Link Sports
+
+- 新規プロダクトの開発
+- インフラ周りのパフォーマンスチューニングと負荷テスト
+
 ## 2021/04〜2021/11 　株式会社 biomy
 
 - 新規 Web アプリの設計・開発
-- Terraform x AWS を使ったインフラ構築
 
 ---
 
