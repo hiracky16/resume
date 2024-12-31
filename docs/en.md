@@ -1,4 +1,4 @@
-# Personal Information
+## Personal Information
 
 | key          | value  |
 | ------------ | ----------------------- |
@@ -7,7 +7,7 @@
 | Address | Kanagawa, Japan |
 | Education | Okayama University（Bachelor of computer science）|
 
-# Social media accounts
+## Social media accounts
 
 <a href="https://github.com/hiracky16" target="_blank"><img src="https://img.shields.io/badge/hiracky16-12100E.svg?style=flat&logo=github"></a>
 <a href="https://twitter.com/hiracky16" target="_blank"><img src="https://img.shields.io/badge/hiracky16-1DA1F2.svg?style=flat&logo=Twitter&logoColor=white"></a>
@@ -18,8 +18,8 @@
 
 ---
 
-# Skill
-## Programing Language
+## Skill
+### Programing Language
 
 <p>
 <img src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=java">
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white">
 </p>
 
-## Flamework
+### Flamework
 
 <p>
 <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000.svg?style=flat&logo=ruby%20on%20rails&logoColor=white">
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Vue-00C58E.svg?style=flat&logo=vue.js&logoColor=white">
 </p>
 
-## Workflow, ETL tools
+### Workflow, ETL tools
 
 <p>
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=flat&logo=Apache%20Airflow&logoColor=white">
@@ -47,7 +47,7 @@
 Digdag, Embulk, DataForm
 </p>
 
-## Cloud Technology, Infrastructure
+### Cloud Technology, Infrastructure
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazon%20aws&logoColor=white">
@@ -59,26 +59,30 @@ Digdag, Embulk, DataForm
 
 ---
 
-# Work Experience
+## Work Experience
 
-## 2021/12〜 JDSC
+### 2023/11 - Present: Findy
+- Developing and managing data infrastructure as a Data Engineer
+
+### 2021/12〜 JDSC
 - Development and operation of data infrastructure as a data engineer
-- Develop multi-tenant ETL pipeline using Airflow, GKE, DataForm, etc.
+- Develop multi-tenant ETL pipeline using Airflow, GKE, DataForm, etc
+- Leading data assessments with client companies and Coordinating data specifications
 
-## 2021/04〜2021/11　DouYu Japan
+### 2021/04〜2021/11　DouYu Japan
 
 - Development of data infrastructure for Mildom, a game distribution platform
 - Participated as a data engineer and collaborate with engineers in China
 - Building data infrastructure using Google Cloud (BigQuery) and Terraform
 
-## 2019/11〜2021/03 CBcloud
+### 2019/11〜2021/03 CBcloud
 
 - Develop services that focus on logistics
 - Participated as a backend (sometimes front, sometimes mobile) engineer
 - As Project leader, experienced in resource management and hiring engineers
 - Rails / Nuxt.js / Kotlin (Android) / Flutter etc.
 
-## 2017/04〜2019/10 ipros
+### 2017/04〜2019/10 ipros
 
 - Operation and maintenance of matching platform in the manufacturing industry
 - Web application development, inquiry response, machine learning
@@ -86,32 +90,41 @@ Digdag, Embulk, DataForm
 
 --
 
-# Side business
+## Side business
 
-## 2021/04〜2021/11　biomy
+### 2023/08~2024/02 Link Sports
+- Development of new products
+- Performance tuning and load testing for infrastructure
+
+### 2021/04〜2021/11　biomy
 - Design and development of web applications
 - Terraform / AWS / Python / JavaScript
 
 ---
 
-# Certifications
+## Certifications
 
 - 2016/10 Statistics Test Level 2
-- 2022/05 Google Professional Data Engineer
-- 2022/10 Google Professional Cloud Architect
+- 2022/05, 2024/06 Google Professional Data Engineer
+- 2022/10, 2024/11 Google Professional Cloud Architect
 - 2022/12 Google Professional Machine Learning Engineer
 
 ---
 
-# Other activities
-## 2015/11〜2017/03 Data Cradle
+## Other activities
+### 2015/11〜2017/03 Data Cradle
 
 - Participated as a student intern
 - Developed workflows for open data collection and visual content
 
-## 2016/08〜 [E2D3](http://e2d3.org/)
+### 2016/08〜 [E2D3](http://e2d3.org/)
 
 - Renewal of the official website and creation of graph
+
+## OSS
+- [dataform-osmosis](https://github.com/hiracky16/dataform-osmosis)
+- [sqlfluff-templater-dataform](https://github.com/hiracky16/sqlfluff-templater-dataform)
+- [terraform-google-bigquery-dataset-member](https://github.com/hiracky16/terraform-google-bigquery-dataset-member)
 
 ## Seminer
 
